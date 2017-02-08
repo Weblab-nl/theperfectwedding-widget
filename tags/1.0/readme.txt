@@ -2,7 +2,7 @@
 Contributors: ThePerfectWedding
 Tags: reviews, rating, theperfectwedding
 Requires at least: 4.2.2
-Tested up to: 4.2.2
+Tested up to: 4.7.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -16,10 +16,10 @@ With this widget you’re able to share the reviews you gathered on your own Wor
 == Installation ==
 
 1. Upload `theperfectwedding-widget` folder to the `/wp-content/plugins/` directory
-1. Activate the plugin through the `Plugins` menu in WordPress.
-1. Go to `Appearance > Widgets > ThePerfectWedding.nl` Widget.
-1. Drag and drop `ThePerfectWedding.nl Widget`, open it and enter your personal access key (apply via development@theperfectwedding.nl)
-1. Choose either a light of dark style and click `save settings`
+2. Activate the plugin through the `Plugins` menu in WordPress.
+3. Go to `Appearance > Widgets > ThePerfectWedding.nl` Widget.
+4. Drag and drop `ThePerfectWedding.nl Widget`, open it and enter your personal access key (apply via development@theperfectwedding.nl)
+5. Choose either a light of dark style and click `save settings`
 
 == Frequently Asked Questions ==
 
