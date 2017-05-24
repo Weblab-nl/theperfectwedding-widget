@@ -1,43 +1,49 @@
 === Plugin Name ===
 Contributors: ThePerfectWedding
-Tags: reviews, rating, theperfectwedding
+Tags: reviews, rating, theperfectwedding, trouwen
 Requires at least: 4.2.2
 Tested up to: 4.7.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-With this widget you’re able to share the reviews you gathered on your own Wordpress website.
-
+Met deze widget is het mogelijk het gemiddelde cijfer van uw ervaringen op ThePerfectWedding.nl op uw WordPress website te publiceren.
 == Description ==
-
-With this widget you’re able to share the reviews you gathered on your own Wordpress website - The widget contains the right mark-up to display “review stars” in the Google search result.
-
+Als leverancier werkzaam in de trouwbranche kunt u heel gemakkelijk uw gemiddelde cijfer van uw ervaringen bij [ThePerfectWedding.nl](http://www.theperfectwedding.nl) op uw eigen WordPress site publiceren.
+Doordat de widget de door Google goedgekeurde ‘review opmaak’ heeft, ontvangt u op elke pagina waar u de widget implementeert de gele review sterren in Google.
+Op deze manier straalt u op zowel uw eigen website, als in de zoekresultaten professionaliteit door onafhankelijke ervaringen uit. 
 == Installation ==
-
-1. Upload `theperfectwedding-widget` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the `Plugins` menu in WordPress.
-3. Go to `Appearance > Widgets > ThePerfectWedding.nl` Widget.
-4. Drag and drop `ThePerfectWedding.nl Widget`, open it and enter your personal access key (apply via development@theperfectwedding.nl)
-5. Choose either a light of dark style and click `save settings`
-
+= Vanuit je WordPress Dashboard =
+1. Bezoek 'Plugins > Nieuwe Toevoegen'
+2. Zoeken naar 'ThePerfectWedding Widget'
+3. Activeer onze widget vanuit je Plugins pagina.
+= Van WordPress.org =
+1. Download onze Widget.
+2. Upload de 'ThePerfectWedding Widget' map naar je eigen '/wp-content/plugins/' map, gebruikmakend van je favoriete methode (ftp, sftp, scp, etc...)
+3. Activeer ThePerfectWedding Widget vanuit je Plugins pagina.
+= Activeren =
+1. [Login](https://www.theperfectwedding.nl/inloggen) in uw beheeromgeving op ThePerfectWedding.nl en navigeer naar: Uw Presentatie > Ervaringen > Widget (bovenaan de pagina)
+2. Kopieer uw unieke sleutel
+3. Bezoek in WordPress:  'Instellingen > ThePerfectWedding.nl Widget opties' (/wp-admin/options-general.php?page=TPWWidget) en plak uw unieke sleutel in het daarvoor bestemde veld
+4. Kies een stijl van de widget (donkere of lichte achtergrond)
+= Weergeven op uw website =
+1. Bezoek ‘Weergave > Widgets’ in uw WordPress omgeving
+2. Sleep 'ThePerfectWedding Widget' naar uw widgetruimte
+*N.B. Implementeer de widget op alle pagina’s waar u nodig acht. Indien u op zoveel mogelijk pagina’s de gele review sterren in Google wil, dient u onze widget in de footer te installeren.
+Google geeft nooit sterren op uw homepage-resultaat, alleen op subpagina’s.*
 == Frequently Asked Questions ==
-
-= Are there any frequently asked questions yet? =
-
-No there are not.
-
+= Hoe zorg ik voor zoveel mogelijk ervaringen? =
+Via de beheeromgeving op ThePerfectWedding kan u uw bruidsparen uitnodigen. Wij sturen dan, eenmalig, een e-mail met uitnodiging naar uw klant
+= Kan ik ook een Excel document aanleveren met mijn klanten? =
+Ja, dit is mogelijk. U dient dan een bestand met de volgende kolommen aan te leveren: ‘Naam’ & ‘e-mailadres’.
+= Kan ik mijn ervaringen ook op Facebook publiceren? =
+Ja, installeer hiervoor onze Facebook app via “Ervaringen > Facebook App”
 == Screenshots ==
-
 1. Preview of the widget.
 2. The settings screen.
-
 == Changelog ==
-
 = 1.0 =
 * Initial version
-
+* feb-2017 Added new support for updated WordPress
 == Upgrade Notice ==
-
 = 1.0 =
-Initial version
+* Initial version

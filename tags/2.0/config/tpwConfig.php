@@ -25,6 +25,6 @@ class tpwConfig {
     /**
      * The api url
      */
-    const API_URL = 'https://weblapi.theperfectwedding.nl/companies/widget/%s?variant=%s';
+    const API_URL = 'https://weblapi.theperfectwedding.nl/companies/widget/%d?variant=%s';
 
 }
