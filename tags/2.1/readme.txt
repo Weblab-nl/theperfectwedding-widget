@@ -3,7 +3,7 @@ Contributors: ThePerfectWedding
 Tags: reviews, rating, theperfectwedding, trouwen
 Requires at least: 4.2.2
 Tested up to: 4.7.5
-Stable tag: 2.2
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Met deze widget is het mogelijk het gemiddelde cijfer van uw ervaringen op ThePerfectWedding.nl op uw WordPress website te publiceren.
@@ -41,8 +41,6 @@ Ja, installeer hiervoor onze Facebook app via “Ervaringen > Facebook App”
 1. Preview of the widget.
 2. The settings screen.
 == Changelog ==
-= 2.2 =
-* Display the correct version now
 = 2.1 =
 * Updated company information in the rich snippet
 = 2.0 =
@@ -51,8 +49,6 @@ Ja, installeer hiervoor onze Facebook app via “Ervaringen > Facebook App”
 * Initial version
 * feb-2017 Added new support for updated WordPress
 == Upgrade Notice ==
-= 2.2 =
-* Display the correct version now
 = 2.1 =
 * Updated company information in the rich snippet
 = 2.0 =

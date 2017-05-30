@@ -5,7 +5,7 @@
     Plugin URI: https://www.theperfectwedding.nl
     Description: With this widget you’re able to share the reviews you gathered on your own Wordpress website - The widget contains the right mark-up to display “review stars” in the Google search result.
     Author: ThePerfectWedding.nl
-    Version: 2.2
+    Version: 2.0
     Author URI: https://www.theperfectwedding.nl
     */
 
